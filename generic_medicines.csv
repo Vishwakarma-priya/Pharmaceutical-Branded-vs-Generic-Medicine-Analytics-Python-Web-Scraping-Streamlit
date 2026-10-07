@@ -1,0 +1,26 @@
+drug_code,generic_drug_name,active_salt_composition,unit_size,mrp_inr,therapeutic_group,source_url,source_date
+1,Aceclofenac 100mg and Paracetamol 325 mg Tablet,Aceclofenac 100mg + Paracetamol 325mg,10's,10.0,Analgesics / anti-inflammatory,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+2,Aceclofenac Tablets IP 100mg,Aceclofenac 100mg,10's,5.0,Analgesics / anti-inflammatory,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+3,Pregabalin capsules 75mg,Pregabalin 75mg,10's,20.0,CNS / neuropathic pain,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+4,Acetaminophen 325 + Tramadol Hydrochloride 37.5 film coated Tablet,Paracetamol 325mg + Tramadol 37.5mg,10's,9.0,Analgesics,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+5,ASPIRIN Tablets IP 150 mg,Aspirin 150mg,14's,2.7,Cardiovascular / antiplatelet,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+6,DICLOFENAC 50 mg+ PARACETAMOL 325 mg+ CHLORZOXAZONE 500 mg Tablets,Diclofenac 50mg + Paracetamol 325mg + Chlorzoxazone 500mg,10's,12.0,Analgesics / musculoskeletal,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+7,Diclofenac Gel BP (Diclofenac Diethylamine 1.16%w/w),Diclofenac diethylamine 1.16% w/w,15 g,10.0,Topical analgesics,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+8,Diclofenac Sodium 50mg + Serratiopeptidase 10mg Tablet,Diclofenac sodium 50mg + Serratiopeptidase 10mg,10's,12.0,Analgesics / anti-inflammatory,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+9,Diclofenac Sodium (SR) 100 mg Tablet,Diclofenac sodium 100mg SR,10's,9.0,Analgesics / anti-inflammatory,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+10,Diclofenac Sodium 25 mg per ml Inj. IP,Diclofenac sodium 25mg/ml,3 ml,2.0,Analgesics / anti-inflammatory,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+11,Diclofenac Sodium 50 mg Tablet,Diclofenac sodium 50mg,10's,3.0,Analgesics / anti-inflammatory,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+12,Etoricoxib Tablets IP 120mg,Etoricoxib 120mg,10's,33.0,Analgesics / anti-inflammatory,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+13,Etoricoxib Tablets IP 90mg,Etoricoxib 90mg,10's,25.0,Analgesics / anti-inflammatory,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+14,Ibuprofen 400 mg + Paracetamol 325 mg Tablet,Ibuprofen 400mg + Paracetamol 325mg,10's,6.0,Analgesics / anti-inflammatory,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+15,Ibuprofen 400 mg film coated Tablet,Ibuprofen 400mg,15's,7.0,Analgesics / anti-inflammatory,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+20,Nimesulide BP 100 mg Tablet,Nimesulide 100mg,10's,5.0,Analgesics / anti-inflammatory,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+21,Diclofenac Sodium 50 mg and Paracetamol 325 mg Tablet,Diclofenac sodium 50mg + Paracetamol 325mg,10's,7.0,Analgesics / anti-inflammatory,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+23,Paracetamol Tablets IP 500mg,Paracetamol 500mg,10's,5.0,Analgesics / antipyretics,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+28,Tramadol 50 mg Tablet,Tramadol 50mg,10's,5.0,Analgesics,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+29,Acyclovir 400mg Tablets,Acyclovir 400mg,10's,31.6,Anti-infectives / antivirals,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+31,Amikacin Injections IP 250mg,Amikacin 250mg,2ml vial,16.4,Anti-infectives / antibacterials,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+33,Glimepiride 2 mg + Metformin HCL 500 mg SR Tablets,Glimepiride 2mg + Metformin 500mg SR,15's,20.0,Anti-diabetic,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+42,Amoxycillin 125 mg Kid Tablet,Amoxicillin 125mg,10's,11.0,Anti-infectives / antibacterials,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+44,Amoxycillin Capsules IP 250mg,Amoxicillin 250mg,10's,10.0,Anti-infectives / antibacterials,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
+45,Amoxycillin Capsules IP 500mg,Amoxicillin 500mg,10's,29.0,Anti-infectives / antibacterials,https://janaushadhi.gov.in/Data/BPPI-MRP-LIST_11122018.pdf,2018-12-11
